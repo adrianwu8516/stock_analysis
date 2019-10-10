@@ -1,0 +1,12 @@
+*.pyc
+.DS_Store
+log/
+data/
+*.db
+captcha/img/
+captcha/img2/
+captcha/mlp_test_result/
+captcha/mlp_test_result2/
+captcha/mlp_test_result3/
+captcha/model_set/
+captcha/test_set/
